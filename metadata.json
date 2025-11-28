@@ -1,0 +1,5 @@
+{
+  "name": "UDAI - Universal Debugger AI",
+  "description": "An AI-powered debugging tool that analyzes logs, stack traces, and code to identify root causes and suggest fixes.",
+  "requestFramePermissions": []
+}
